@@ -37,11 +37,11 @@
 
   Example : Reading a text file
 
-  with open('example.txt', 'r') as file:
+      with open('example.txt', 'r') as file:
 
-  content = file.read()
+      content = file.read()
 
-  print(content)
+      print(content)
 
   This example opens `example.txt` in read mode, reads its content into the variable `content`, and then prints that content. The `with` statement ensures that the file is properly closed after its suite finishes, even if an exception is raised at some point.
 
