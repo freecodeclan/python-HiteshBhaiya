@@ -6,9 +6,9 @@
 
 - List : Ordered collection of items which can be of different types. [1,2 [3,4], 5]
 
-- Tuple : Ordered collection of items similar to list, but immutable.(1, "two", 3.0)
+- Tuple : Ordered collection of items similar to list, but immutable. (1, "two", 3.0)
 
-- Dictionary : An unordered collection of data in a key:value pair form.{"name": "John", "age": 30}
+- Dictionary : An unordered collection of data in a key:value pair form. {"name": "John", "age": 30}
 
 - Set : An unordered collection of unique items.{1, 2, 3, 4, 5}
 - frozenset : Immutable form of a set. frozenset({1, 2, 3, 4, 5})
